@@ -1,0 +1,12 @@
+numpy
+sounddevice
+webrtcvad
+torch
+python-dotenv
+faster-whisper
+openai
+pydub
+pypdf
+faiss-cpu
+rank-bm25
+nltk
